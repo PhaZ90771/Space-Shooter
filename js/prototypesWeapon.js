@@ -1,0 +1,8 @@
+////////////
+// WEAPON //
+////////////
+
+// Constructor
+function Weapon() {
+    
+}
