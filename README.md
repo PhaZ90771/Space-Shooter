@@ -1,7 +1,8 @@
 <head>
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <script type="text/javascript" src="js/jquery-1.8.1.js"></script>
 </head>
+
+<script type="text/javascript" src="js/jquery-1.8.1.js"></script>
 
 <div id="window">
   <canvas id="gameWindow" width="1024" height="768"></canvas>
