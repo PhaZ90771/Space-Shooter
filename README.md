@@ -1,24 +1,29 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-</head>
-
-<script type="text/javascript" src="js/jquery-1.8.1.js"></script>
+<section>
+    <pre><code data-trim>
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <script type="text/javascript" src="js/jquery-1.8.1.js"></script>
+    </code></pre>
+</section>
 
 <div id="window">
-  <canvas id="gameWindow" width="1024" height="768"></canvas>
+    <canvas id="gameWindow" width="1024" height="768"></canvas>
 </div>
 
-<script type="text/javascript" src="js/fix.js"></script>
-<script type="text/javascript" src="js/constants.js"></script>
-<script type="text/javascript" src="js/prototypesCollisionDetection.js"></script>
-<script type="text/javascript" src="js/prototypesBullet.js"></script>
-<script type="text/javascript" src="js/prototypesPlayer.js"></script>
-<script type="text/javascript" src="js/prototypesStar.js"></script>
-<script type="text/javascript" src="js/prototypesBackground.js"></script>
-<script type="text/javascript" src="js/prototypesEnemy.js"></script>
-<script type="text/javascript" src="js/prototypesEnemyAI.js"></script>
-<script type="text/javascript" src="js/prototypesGame.js"></script>
-<script type="text/javascript" src="js/game.js"></script>
+<section>
+    <pre><code data-trim>
+        <script type="text/javascript" src="js/fix.js"></script>
+        <script type="text/javascript" src="js/constants.js"></script>
+        <script type="text/javascript" src="js/prototypesCollisionDetection.js"></script>
+        <script type="text/javascript" src="js/prototypesBullet.js"></script>
+        <script type="text/javascript" src="js/prototypesPlayer.js"></script>
+        <script type="text/javascript" src="js/prototypesStar.js"></script>
+        <script type="text/javascript" src="js/prototypesBackground.js"></script>
+        <script type="text/javascript" src="js/prototypesEnemy.js"></script>
+        <script type="text/javascript" src="js/prototypesEnemyAI.js"></script>
+        <script type="text/javascript" src="js/prototypesGame.js"></script>
+        <script type="text/javascript" src="js/game.js"></script>
+    </code></pre>
+</section>
 
 <br />
 <br />
