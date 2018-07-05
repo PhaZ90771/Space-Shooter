@@ -1,19 +1,15 @@
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-
-<div id="window">
-    <canvas id="gameWindow" width="1024" height="768"></canvas>
-</div>
-
-<br />
-<br />
-
 # Space-Shooter
 This project started as my final project for CGT 353. I worked on the game over a couple weeks. It had problems with collision detection, and just reloaded the page when you died after clicking okay on the popup with your final score. I have since then fixed most of the bugs.
 
 The controls are: Move - arrow keys, Fire - space bar
 
+<div id="window">
+    <canvas id="gameWindow" width="1024" height="768"></canvas>
+</div>
+
 <details>
     <summary>Scripts for game when run from as .io page</summary>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
     <script type="text/javascript" src="js/jquery-1.8.1.js"></script>
     <script type="text/javascript" src="js/fix.js"></script>
     <script type="text/javascript" src="js/constants.js"></script>
