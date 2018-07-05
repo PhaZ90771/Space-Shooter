@@ -7,7 +7,7 @@ The controls are: Move - arrow keys, Fire - space bar
     <canvas id="gameWindow" width="1024" height="768"></canvas>
 </div>
 
-<details>
+<details hidden>
     <summary>Scripts for game when run from as .io page</summary>
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <script type="text/javascript" src="js/jquery-1.8.1.js"></script>
